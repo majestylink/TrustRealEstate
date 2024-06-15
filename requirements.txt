@@ -19,6 +19,7 @@ et-xmlfile==1.1.0
 flake8==7.0.0
 geographiclib==2.0
 geopy==2.4.1
+gunicorn==22.0.0
 idna==3.7
 ipaddr==2.2.0
 jdcal==1.4.1
@@ -29,6 +30,7 @@ mccabe==0.7.0
 msgpack==1.0.8
 oauthlib==3.2.2
 odfpy==1.4.1
+packaging==24.1
 pillow==10.3.0
 pycodestyle==2.11.1
 pycparser==2.22
